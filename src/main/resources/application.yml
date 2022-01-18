@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+audit:
+  log:
+    filename: audit # name of the transaction's audit file

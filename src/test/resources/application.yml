@@ -1,0 +1,3 @@
+audit:
+  log:
+    filename: test-audit # name of the transaction's audit file
